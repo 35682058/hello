@@ -1,3 +1,7 @@
+/* Hack01
+Name: Chiang Kuan Ruei
+Date: 2020/01/16
+*/
 #include <stdlib.h>
 #include <stdio.h>
 int main(int argc, char **argv) {
